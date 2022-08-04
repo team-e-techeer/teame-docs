@@ -17,12 +17,27 @@ Schoolvery
 </br>
 
 ## Demo
-#### PoC
+#### a. PoC
 - 사용자 A가 모집 게시글을 등록한다.
 - 사용자 B가 A가 올린 모집 게시글에 참여한다.
 - 사용자 A와 B는 채팅방 안에서 메세지를 보내며 소통한다. 
 
-#### Vedio
+#### b. Additional Features
+- 회원가입 및 로그인
+- 카테고리, 가게별 필터링
+- 유저 개인 페이지를 통한 개인정보 관리
+- 
+#### c. Vedio & Screen shot
+
+- Main Page
+
+- Posting Page
+
+- Chat Page
+
+- User Page
+
+
 
 
 <br/>
@@ -58,7 +73,7 @@ Schoolvery
 React를 사용하여 사용자와의 상호작용을 하는 앱화면을 효율적으로 구성하고, <br />
 Redux을 이용하여 유동적인 값들의 상태를 관리했습니다. <br />
 React Query를 사용하여 비동기 관련 로직 및 상태를 관리했습니다. <br />
-React Testing Library로 테스트 코드를 작성하여 ... 높였습니다.
+React Testing Library로 테스트 코드를 작성하여 코드의  높였습니다.
 
 <br />
 
@@ -124,8 +139,9 @@ React Testing Library로 테스트 코드를 작성하여 ... 높였습니다.
 ### Frontend
 go ro frontend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-fe)
 
+> 프로젝트 실행
 
-```
+```shell
 yarn start
 ```
 
@@ -135,15 +151,60 @@ yarn start
 ### Backend
 go to backend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-be)
 
+> .env.example 을 참고하여 .env 파일에 있는 환경변수를 작성해준다.
+```
+DB_USERNAME=
+DB_ROOT_PASSWORD=
+DB_DATABASE=
+DB_HOST=
+
+JWT_HEADER=
+JWT_SECRET_KEY=
+JWT_EXPIRE_TIME=
+
+PORT=
+
+AdminMailId =
+AdminMailPassword =
+
+slack_api =
+```
+
+> jar 파일을 생성해준다.
+
+```shell
+./gradlew build 
+
+# 혹은
+
+./build.sh
+```
+
+앞선 방법으로 빌드가 안될 경우
+```shell
+gradle wrapper 
+
+# 혹은 
+
+./initialize.sh
+```
+
+> 루트 경로에서 docker-compose 명령어를 사용하여 어플리케이션을 실행시켜준다.
+
+```shell
+docker-compose up -d --build
+```
 
 <br/>
+
+## Domain
+
 
 ## Team Members
 |                                         Backend                                          |                                           Backend                                          |                                         Backend                                         |                                       Backend/Frontend                                        |                                        Frontend                                         |                                   
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | 
 |                       [🦈 김의빈](https://github.com/JoeCP17)                        |          [🐠 정수빈](https://github.com/SoobinJung1013)                            |                          [🦞 한승욱](https://github.com/SeungWookHan)                           |                         [🐋 김서영](https://github.com/ksy990628)                         |                            [🦭 장동현](https://github.com/ww8007)                            |             
 
-<br />
 <br />
 
 #### If you want to know more bout us click here !
