@@ -16,7 +16,7 @@ Schoolvery
 
 </br>
 
-## Demo
+## Feature
 #### a. PoC
 - 사용자 A가 모집 게시글을 등록한다.
 - 사용자 B가 A가 올린 모집 게시글에 참여한다.
@@ -27,7 +27,7 @@ Schoolvery
 - 카테고리, 가게별 필터링
 - 유저 개인 페이지를 통한 개인정보 관리
 
-#### c. Vedio & Screen shot
+#### c. Demo
 
 - Main Page
 
