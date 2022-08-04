@@ -26,7 +26,7 @@ Schoolvery
 - 회원가입 및 로그인
 - 카테고리, 가게별 필터링
 - 유저 개인 페이지를 통한 개인정보 관리
-- 
+
 #### c. Vedio & Screen shot
 
 - Main Page
