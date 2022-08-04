@@ -33,10 +33,10 @@ let's go !!! </br>
 ### Front-end
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -46,8 +46,6 @@ let's go !!! </br>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="icon" />
 </div>
 
-- **React**
-- **Typescript**
 - **React Query**
 - **React Testing Libray**
 
@@ -56,9 +54,9 @@ let's go !!! </br>
 ### Back-end
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -74,23 +72,20 @@ let's go !!! </br>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="icon" />
 </div>
 
-- **java 11**
-- **Springboot**
 - **Spring Data JPA(Hibernate)**
 - **QueryDSL**
 - **JUnit 5**, **mockito**
 - **SLF4J**
 - **JWT**
-- **Swagger**
-- **Mysql**, **H2**
 
 <br />
 
 ### Infra Structure
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -98,7 +93,6 @@ let's go !!! </br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="icon" />
 </div>
 
-- **Docker**
 - **Github Actions**
 - **AWS EC2**
 - **Prometheus, Grafana**
