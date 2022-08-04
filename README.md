@@ -18,12 +18,18 @@ Schoolvery
 
 ## Demo
 #### PoC
+- 사용자 A가 모집 게시글을 등록한다.
+- 사용자 B가 A가 올린 모집 게시글에 참여한다.
+- 사용자 A와 B는 채팅방 안에서 메세지를 보내며 소통한다. 
+
+#### Vedio
 
 
 <br/>
 
 
 ## System Architecture
+
 
 <br/>
 
@@ -48,6 +54,11 @@ Schoolvery
 
 - **React Query**
 - **React Testing Libray**
+
+React를 사용하여 사용자와의 상호작용을 하는 앱화면을 효율적으로 구성하고, <br />
+Redux을 이용하여 유동적인 값들의 상태를 관리했습니다. <br />
+React Query를 사용하여 비동기 관련 로직 및 상태를 관리했습니다. <br />
+React Testing Library로 테스트 코드를 작성하여 ... 높였습니다.
 
 <br />
 
@@ -112,6 +123,14 @@ Schoolvery
 ## How to run
 ### Frontend
 go ro frontend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-fe)
+
+
+```
+yarn start
+```
+
+<br />
+
 
 ### Backend
 go to backend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-be)
