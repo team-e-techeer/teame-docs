@@ -72,7 +72,7 @@ Schoolvery
 
 React를 사용하여 사용자와의 상호작용을 하는 앱화면을 효율적으로 구성하고, <br />
 Redux을 이용하여 유동적인 값들의 상태를 관리했습니다. <br />
-React Query를 사용하여 비동기 관련 로직 및 상태를 관리했습니다. <br />
+React Query를 사용하여 비동기 관련 로직 및 상태를 관리하고, <br />
 React Testing Library로 테스트 코드를 작성하여 코드의  높였습니다.
 
 <br />
@@ -104,6 +104,13 @@ React Testing Library로 테스트 코드를 작성하여 코드의  높였습�
 - **SLF4J**
 - **JWT**
 
+Springboot로 웹 어플리케이션 서버를 구축하고, <br/>
+Spring Data JPA(Hibernate)로 객체지향 데이터 로직을 작성했습니다. <br/>
+QueryDSL로 컴파일 시점에 SQL 오류를 감지하고, 동적인 쿼리를 작성했습니다. <br/>
+Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. <br/> 
+데이터 베이스는 MySQL과 H2를 사용하였습니다. <br/>
+
+
 <br />
 
 ### Infra Structure
@@ -123,6 +130,12 @@ React Testing Library로 테스트 코드를 작성하여 코드의  높였습�
 - **AWS EC2**
 - **Prometheus, Grafana**
 - **AWS Route 53**
+
+Docker로 동일한 백엔드 환경을 구축하고, <br/>
+AWS EC2 인스턴스(Ubuntu, t3a.medium)에 서버를 배포하였습니다. <br/>
+Github Action을 사용하여 지속적인 배포 파이프라인을 만들고, <br/>
+Prometheus와 Grafana를 통해 서버의 상태를 모니터링했습니다. <br/>
+Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업하였습니다.
 
 <br />
 
@@ -198,6 +211,8 @@ docker-compose up -d --build
 <br/>
 
 ## Domain
+
+<br/>
 
 
 ## Team Members
