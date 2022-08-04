@@ -8,10 +8,11 @@ Schoolvery
 
 <h4 align="middle"> 교내 배달 비용 공유 플랫폼 스쿨버리!</h4>
 
-hi this is schoolvery ! <br/>
-and blah blah ~! <br />
-Would you like to know about our project? </br>
-let's go !!! </br>
+<br />
+
+- 스쿨버리는 기존의 **비싼 배달비와 최소 주문 금액** 문제를 해결하기 위해 만들어진 서비스입니다. 
+- 핵심 아이디어는 인접한 사람들과 배달 음식 비용을 공유하는 것입니다.
+
 
 </br>
 
