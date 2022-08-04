@@ -10,25 +10,24 @@ Schoolvery
 
 hi this is schoolvery ! <br/>
 and blah blah ~! <br />
-and blah blah ~! <br />
 Would you like to know about our project? </br>
 let's go !!! </br>
 
 </br>
 
-# Part 1. Demo
+## Demo
 #### PoC
 
 
 <br/>
 
 
-# Part 2. System Architecture
+## System Architecture
 
 <br/>
 
 
-# Part 3 . Tech Stack
+## Tech Stack
 
 ### Front-end
 
@@ -109,7 +108,7 @@ let's go !!! </br>
 
 <br/>
 
-# Part 4.  How to run
+## How to run
 ### Frontend
 go ro frontend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-fe)
 
@@ -119,7 +118,7 @@ go to backend repo 👉🏻 [click here !](https://github.com/team-e-techeer/sch
 
 <br/>
 
-# Part 5 . Team Members
+## Team Members
 |                                         Backend                                          |                                           Backend                                          |                                         Backend                                         |                                       Backend/Frontend                                        |                                        Frontend                                         |                                   
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | 
 |                       [🦈 김의빈](https://github.com/JoeCP17)                        |          [🐠 정수빈](https://github.com/SoobinJung1013)                            |                          [🦞 한승욱](https://github.com/SeungWookHan)                           |                         [🐋 김서영](https://github.com/ksy990628)                         |                            [🦭 장동현](https://github.com/ww8007)                            |             
