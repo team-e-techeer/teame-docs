@@ -230,3 +230,7 @@ docker-compose up -d --build
 <a href="https://team-e2.notion.site/Shoolvery-01e48be509de4343b0ed1efecd8e0cb2">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" />
 </a>
+<br/>
+<a href="https://github.com/team-e-techeer">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="icon" />
+</a>
