@@ -54,10 +54,10 @@ Schoolvery
 ### Front-end
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" height="80" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
